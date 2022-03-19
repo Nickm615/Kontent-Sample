@@ -3,7 +3,7 @@ const Kk = window['kontentDelivery'];
 
 // Tip: Change the project ID of the API call to yours to display your own content. Make sure the codenames still match.
 const deliveryClient = new Kk.DeliveryClient({
-  projectId: '8d20758c-d74c-4f59-ae04-ee928c0816b7'
+  projectId: '5b0b8264-5d85-00e6-2a2e-79b71d98c562'
 });
 
 // Retrieves the content item from your project
